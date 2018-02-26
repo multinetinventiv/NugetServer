@@ -3,3 +3,6 @@
 ################################################################################
 
 /Inventiv.Tools.NugetServer/bin
+/.vs
+/Inventiv.Tools.NugetServer/obj
+/packages
